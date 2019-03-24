@@ -606,19 +606,6 @@ pre code {
   word-break: normal;
 }
 
-#div_left{
-	min-height: 200px;
-	float: center;
-	align-content: center;
-}
-
-#div_right{
-	min-height: 200px;
-	min-width: 10px;
-	float: center;
-	align-content:center;
-}
-
 .pre-scrollable {
   max-height: 340px;
   overflow-y: scroll;
