@@ -7,7 +7,7 @@
 @section('content')
 	<br>
 	<div align="center">
-		<div id="div_left">
+		<div id="div_left" align="center">
 			<img src="{{$player->img_URL}}" width="150px">
 		</div>
 		<br>
