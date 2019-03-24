@@ -125,6 +125,10 @@ h6 {
   margin-bottom: 0.5rem;
 }
 
+div.p{
+	margin:0;
+}
+
 p {
   margin-top: 0;
   margin-bottom: 1rem;
@@ -604,15 +608,15 @@ pre code {
 
 #div_left{
 	min-height: 200px;
-	width: 15%;
-	float: left;
+	float: center;
+	align-content: center;
 }
 
 #div_right{
 	min-height: 200px;
-	width: 85%;
-	float: right;
-	align-content: left;
+	min-width: 10px;
+	float: center;
+	align-content:center;
 }
 
 .pre-scrollable {
